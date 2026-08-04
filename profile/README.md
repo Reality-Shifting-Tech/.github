@@ -1,11 +1,4 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.svg" />
-    <img src="assets/logo.svg" alt="Reality Shifting Tech" width="340" />
-  </picture>
-</p>
-
-<p align="center">
   <img src="assets/banner.png" alt="Reality Shifting Tech" width="100%" />
 </p>
 
