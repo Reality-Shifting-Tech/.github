@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://realityshiftingtech.com"><img src="https://img.shields.io/badge/Website-realityshiftingtech.com-8b5cf6?style=flat-square" alt="Website" /></a>
-  <img src="https://img.shields.io/badge/Location-Philadelphia%2C%20PA-6366f1?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FReality-Shifting-Tech&query=public_repos&label=open%20source%20repos&color=8b5cf6&style=flat-square" alt="Open source repos" />
-  <img src="https://img.shields.io/badge/Open%20Source-AGPL%20%26%20MIT-0ea5e9?style=flat-square" alt="Licenses" />
+  <a href="https://realityshiftingtech.com"><img src="https://img.shields.io/badge/Website-realityshiftingtech.com-E7FF02?style=flat-square" alt="Website" /></a>
+  <img src="https://img.shields.io/badge/Location-Philadelphia%2C%20PA-06B6D4?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FReality-Shifting-Tech&query=public_repos&label=open%20source%20reposlabel=open%20source%20repos&color=8b5cf6color=E7FF02&style=flat-square" alt="Open source repos" />
+  <img src="https://img.shields.io/badge/Open%20Source-AGPL%20%26%20MIT-06B6D4?style=flat-square" alt="Licenses" />
 </p>
 
 ---
@@ -62,14 +62,14 @@ We ship what we use. Every repo below runs real workloads in production.
       <span style="color: #57606a; font-size: 0.9em;">Open-source, self-hostable, agent-native email marketing platform.</span><br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/github/license/Reality-Shifting-Tech/mailpelican?style=flat-square" alt="License" />
-      <img src="https://img.shields.io/github/stars/Reality-Shifting-Tech/mailpelican?style=flat-square&label=stars" alt="Stars" />
+      <img src="https://img.shields.io/github/stars/Reality-Shifting-Tech/mailpelican?style=flat-square&label=stars&color=E7FF02" alt="Stars" />
     </td>
     <td width="50%" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 14px;">
       <a href="https://github.com/Reality-Shifting-Tech/deepsight"><b>👁️ deepsight</b></a><br/>
       <span style="color: #57606a; font-size: 0.9em;">Vision-session proxy for text-only LLMs. Sketch + targeted look/zoom/ocr tool calls.</span><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/github/license/Reality-Shifting-Tech/deepsight?style=flat-square" alt="License" />
-      <img src="https://img.shields.io/github/stars/Reality-Shifting-Tech/deepsight?style=flat-square&label=stars" alt="Stars" />
+      <img src="https://img.shields.io/github/stars/Reality-Shifting-Tech/deepsight?style=flat-square&label=stars&color=E7FF02" alt="Stars" />
     </td>
   </tr>
   <tr>
@@ -78,14 +78,14 @@ We ship what we use. Every repo below runs real workloads in production.
       <span style="color: #57606a; font-size: 0.9em;">One photo in, photoreal 3D person out. Self-hostable, quality-gated.</span><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/github/license/Reality-Shifting-Tech/img2person?style=flat-square" alt="License" />
-      <img src="https://img.shields.io/github/stars/Reality-Shifting-Tech/img2person?style=flat-square&label=stars" alt="Stars" />
+      <img src="https://img.shields.io/github/stars/Reality-Shifting-Tech/img2person?style=flat-square&label=stars&color=E7FF02" alt="Stars" />
     </td>
     <td width="50%" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 14px;">
       <a href="https://github.com/Reality-Shifting-Tech/OpenMeerkat"><b>🐺 OpenMeerkat</b></a><br/>
       <span style="color: #57606a; font-size: 0.9em;">Open-source omnichannel chatbot platform: inbox, flow builder, AI agents, webhooks, MCP.</span><br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/github/license/Reality-Shifting-Tech/OpenMeerkat?style=flat-square" alt="License" />
-      <img src="https://img.shields.io/github/stars/Reality-Shifting-Tech/OpenMeerkat?style=flat-square&label=stars" alt="Stars" />
+      <img src="https://img.shields.io/github/stars/Reality-Shifting-Tech/OpenMeerkat?style=flat-square&label=stars&color=E7FF02" alt="Stars" />
     </td>
   </tr>
 </table>
