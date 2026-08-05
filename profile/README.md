@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://realityshiftingtech.com"><img src="https://img.shields.io/badge/Website-realityshiftingtech.com-E7FF02?style=flat-square" alt="Website" /></a>
   <img src="https://img.shields.io/badge/Location-Philadelphia%2C%20PA-06B6D4?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FReality-Shifting-Tech&query=public_repos&label=open%20source%20reposlabel=open%20source%20repos&color=8b5cf6color=E7FF02&style=flat-square" alt="Open source repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FReality-Shifting-Tech&query=public_repos&label=open%20source%20repos&color=E7FF02&style=flat-square" alt="Open source repos" />
   <img src="https://img.shields.io/badge/Open%20Source-AGPL%20%26%20MIT-06B6D4?style=flat-square" alt="Licenses" />
 </p>
 
