@@ -16,13 +16,13 @@
 
 ---
 
-## Who We Are
+## 🚀 Who We Are
 
 Reality Shifting Tech is a lean, AI-augmented build shop in Philadelphia. We design brand systems, ship websites and mobile products, and wire AI workflows into companies that would rather move than manage a vendor stack. Solo creators to national sports and media brands: same principle at every size, remove the manual step, keep the human judgment.
 
 We open-source the tools we use internally, because the best way to prove a product works is to run your own business on it.
 
-## What We Build
+## 🧰 What We Build
 
 <table align="center">
   <tr>
@@ -51,21 +51,21 @@ We open-source the tools we use internally, because the best way to prove a prod
   </tr>
 </table>
 
-## Open Source
+## ⭐ Open Source
 
 We ship what we use. Every repo below runs real workloads in production.
 
 <table align="center">
   <tr>
     <td width="50%" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 14px;">
-      <a href="https://github.com/Reality-Shifting-Tech/mailpelican"><b>mailpelican</b></a><br/>
+      <a href="https://github.com/Reality-Shifting-Tech/mailpelican"><b>📬 mailpelican</b></a><br/>
       <span style="color: #57606a; font-size: 0.9em;">Open-source, self-hostable, agent-native email marketing platform.</span><br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/github/license/Reality-Shifting-Tech/mailpelican?style=flat-square" alt="License" />
       <img src="https://img.shields.io/github/stars/Reality-Shifting-Tech/mailpelican?style=flat-square&label=stars&color=E7FF02" alt="Stars" />
     </td>
     <td width="50%" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 14px;">
-      <a href="https://github.com/Reality-Shifting-Tech/deepsight"><b>deepsight</b></a><br/>
+      <a href="https://github.com/Reality-Shifting-Tech/deepsight"><b>👁️ deepsight</b></a><br/>
       <span style="color: #57606a; font-size: 0.9em;">Vision-session proxy for text-only LLMs. Sketch + targeted look/zoom/ocr tool calls.</span><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/github/license/Reality-Shifting-Tech/deepsight?style=flat-square" alt="License" />
@@ -74,14 +74,14 @@ We ship what we use. Every repo below runs real workloads in production.
   </tr>
   <tr>
     <td width="50%" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 14px;">
-      <a href="https://github.com/Reality-Shifting-Tech/sessionport"><b>sessionport</b></a><br/>
+      <a href="https://github.com/Reality-Shifting-Tech/sessionport"><b>🧳 sessionport</b></a><br/>
       <span style="color: #57606a; font-size: 0.9em;">Carry AI agent sessions between CLIs. Portable markdown briefs, offline by default.</span><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/github/license/Reality-Shifting-Tech/sessionport?style=flat-square" alt="License" />
       <img src="https://img.shields.io/github/stars/Reality-Shifting-Tech/sessionport?style=flat-square&label=stars&color=E7FF02" alt="Stars" />
     </td>
     <td width="50%" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 14px;">
-      <a href="https://github.com/Reality-Shifting-Tech/OpenMeerkat"><b>OpenMeerkat</b></a><br/>
+      <a href="https://github.com/Reality-Shifting-Tech/OpenMeerkat"><b>🐺 OpenMeerkat</b></a><br/>
       <span style="color: #57606a; font-size: 0.9em;">Open-source omnichannel chatbot platform: inbox, flow builder, AI agents, webhooks, MCP.</span><br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/github/license/Reality-Shifting-Tech/OpenMeerkat?style=flat-square" alt="License" />
@@ -90,14 +90,14 @@ We ship what we use. Every repo below runs real workloads in production.
   </tr>
   <tr>
     <td width="50%" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 14px;">
-      <a href="https://github.com/Reality-Shifting-Tech/img2person"><b>img2person</b></a><br/>
+      <a href="https://github.com/Reality-Shifting-Tech/img2person"><b>🧍 img2person</b></a><br/>
       <span style="color: #57606a; font-size: 0.9em;">One photo in, photoreal 3D person out. Self-hostable, quality-gated.</span><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/github/license/Reality-Shifting-Tech/img2person?style=flat-square" alt="License" />
       <img src="https://img.shields.io/github/stars/Reality-Shifting-Tech/img2person?style=flat-square&label=stars&color=E7FF02" alt="Stars" />
     </td>
     <td width="50%" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 14px;">
-      <a href="https://github.com/Reality-Shifting-Tech/homebrew-sessionport"><b>homebrew-sessionport</b></a><br/>
+      <a href="https://github.com/Reality-Shifting-Tech/homebrew-sessionport"><b>🍺 homebrew-sessionport</b></a><br/>
       <span style="color: #57606a; font-size: 0.9em;">Homebrew tap for sessionport: one-command installs of the session portability CLI.</span><br/><br/>
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
       <img src="https://img.shields.io/github/stars/Reality-Shifting-Tech/homebrew-sessionport?style=flat-square&label=stars&color=E7FF02" alt="Stars" />
@@ -109,7 +109,7 @@ We ship what we use. Every repo below runs real workloads in production.
   <a href="https://github.com/orgs/Reality-Shifting-Tech/repositories"><b>Browse all repos →</b></a>
 </p>
 
-## Stack
+## 🛠️ Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -124,7 +124,7 @@ We ship what we use. Every repo below runs real workloads in production.
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-## Get In Touch
+## 📬 Get In Touch
 
 <p align="center">
   <a href="https://realityshiftingtech.com"><b>realityshiftingtech.com</b></a> &nbsp;·&nbsp;
